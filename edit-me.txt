@@ -1,2 +1,2 @@
 var requiredChange: String = "Hello World in Swift"
-String change = "Hello World in Java"
+String changeReq = "Hello World in Java"
